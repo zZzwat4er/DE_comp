@@ -1,0 +1,13 @@
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\bin\Debug\DE_comp_pract.exe.config
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\bin\Debug\DE_comp_pract.exe
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\bin\Debug\DE_comp_pract.pdb
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.csprojAssemblyReference.cache
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.Properties.Resources.resources
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.csproj.GenerateResource.cache
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.csproj.CoreCompileInputs.cache
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.exe
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.pdb
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\bin\Debug\OxyPlot.xml
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.Form1.resources
+C:\Users\valen\RiderProjects\DE_comp_pract\DE_comp_pract\obj\Debug\DE_comp_pract.csproj.CopyComplete
